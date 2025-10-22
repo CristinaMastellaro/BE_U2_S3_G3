@@ -4,13 +4,12 @@ import cristinamastellaro.BE_U2_S3_G3.classesEs1.Adapter;
 import cristinamastellaro.BE_U2_S3_G3.classesEs1.Info;
 import cristinamastellaro.BE_U2_S3_G3.classesEs1.UserData;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.stereotype.Component;
 
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
 import java.util.Date;
 
-@Component
+//@Component
 public class Es1Runner implements CommandLineRunner {
 
     @Override
