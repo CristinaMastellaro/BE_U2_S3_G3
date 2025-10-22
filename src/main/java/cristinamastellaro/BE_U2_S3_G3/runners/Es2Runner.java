@@ -5,11 +5,10 @@ import cristinamastellaro.BE_U2_S3_G3.classesEs2.Pagina;
 import cristinamastellaro.BE_U2_S3_G3.classesEs2.PaginaSingola;
 import cristinamastellaro.BE_U2_S3_G3.classesEs2.Sezione;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 
-@Component
+//@Component
 public class Es2Runner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
